@@ -1,0 +1,39 @@
+[submodule "fleshMess/submission"]
+	path = fleshMess/submission
+	url = https://github.com/radmars/ld35.git
+[submodule "uncertaintyPrinciple/submission"]
+	path = uncertaintyPrinciple/submission
+	url = https://github.com/radmars/ld34.git
+[submodule "micromancer/submission"]
+	path = micromancer/submission
+	url = https://github.com/radmars/ld33.git
+[submodule "protocolOnBlindingLaserWeapons20xx"]
+	path = protocolOnBlindingLaserWeapons20xx
+	url = https://github.com/radmars/ld32.git
+[submodule "minimars2/submission"]
+	path = minimars2/submission
+	url = https://github.com/radmars/ld31.git
+[submodule "grimGateway/submission"]
+	path = grimGateway/submission
+	url = https://github.com/Adhesion/ld30
+[submodule "robo"]
+	path = robo
+	url = https://github.com/Adhesion/ld29.git
+[submodule "velocitron/LD"]
+	path = velocitron/LD
+	url = https://github.com/Adhesion/ld28.git
+[submodule "spaceJanitor"]
+	path = spaceJanitor
+	url = https://github.com/Adhesion/ld27
+[submodule "tessitron/ludumDare"]
+	path = tessitron/ludumDare
+	url = https://github.com/Adhesion/ld26.git
+[submodule "theBrink/sub"]
+	path = theBrink/sub
+	url = https://github.com/Adhesion/ld25.git
+[submodule "deathdeathevolution/submission"]
+	path = deathdeathevolution/submission
+	url = https://github.com/Adhesion/ld24.git
+[submodule "escapeMinimars/submission"]
+	path = escapeMinimars/submission
+	url = https://github.com/Adhesion/ld23.git
